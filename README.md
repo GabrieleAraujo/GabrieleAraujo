@@ -16,7 +16,7 @@
   <img align="center" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Gabi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabi-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Gabi-yoda" height="190" width="200"  src="https://cdn.discordapp.com/attachments/758362394220298319/884566798794633246/picasion.com_31530aa7d40907ef0b9fb4a23c597ae7.gif">
+  <img align="right" alt="Gabi-yoda" height="170" width="180"  src="https://cdn.discordapp.com/attachments/758362394220298319/884566798794633246/picasion.com_31530aa7d40907ef0b9fb4a23c597ae7.gif">
   </div>
 
 
