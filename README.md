@@ -8,6 +8,7 @@
   <a href="https://github.com/GabrieleAraujo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=gabrielearaujo&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielearaujo&layout=compact&langs_count=7&theme=tokyonight"/>
+<!--  <img align="right" alt="Gabi-yoda" height="150" width="160"  src="https://cdn.discordapp.com/attachments/758362394220298319/884566798794633246/picasion.com_31530aa7d40907ef0b9fb4a23c597ae7.gif"> -->
 </div>
 
   ##
