@@ -2,7 +2,6 @@
 
 - 🔭 Atualmente sou formada em técnico em informática 
 - 🌱 Graduando B.I em Ciência e Tecnologia
-- 😄 Pronomes: ela/dela
 
 <div>
   <a href="https://github.com/GabrieleAraujo">
