@@ -1,7 +1,7 @@
 ## Olá_Mundo! Eu sou Gabriele Araújo
 
 - 🔭 Atualmente sou formada em técnico em informática 
-- 🌱 Graduando B.I em Ciência e Tecnologia
+- 🌱 Graduando B.I em Ciência e Tecnologia e Engenharia Física
 
 <div>
   <a href="https://github.com/GabrieleAraujo">
