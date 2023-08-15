@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3 align="center"><samp> Olá_Mundo! Eu sou Gabriele Araújo</samp> <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20px"></h3>
 
-<p align="center"><samp> Sou estudante Engenharia Física e ando desbravando um pouco o mundo da programação</samp><img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /></p>
+<p align="center"><samp> Sou estudante Engenharia Física e ando desbravando um pouco o mundo da programação</samp> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /></p>
 
 <!-- Atividades -->
 <p align="center">
