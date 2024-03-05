@@ -28,7 +28,7 @@
 <a href="https://www.linkedin.com/in/gabrielesaraujo/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a></p>
 
 
-![Snake animation](https://github.com/GabrieleAraujo/GabrieleAraujo/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/gabrielearaujo/gabrielearaujo/blob/output/github-contribution-grid-snake.svg)
 <!-- <img align="right" src="https://cdn.discordapp.com/attachments/780589825220018209/1063581964365463573/emails-college.gif" width="120px"> 
 
 Olá Mundo! Eu sou Gabriele Araújo 
