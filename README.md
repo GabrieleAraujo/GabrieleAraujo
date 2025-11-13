@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <p align="center"> <samp> Hello World! I'm Gabriele Araújo</samp> <img alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/></p>
 
-<p align="center"><samp> I have degrees in Physics Engineering and Science and Technology. Currently, I'm delving into programming</samp> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /></p>
+<p align="center"><samp>I’m a Master in Computer and Systems Engineering with a background in Physics Engineering and Science and Technology, currently deepening my skills in programming.</samp> <img alt="GIF" src="https://github.com/SP-XD/SP-XD/blob/main/images/Developer.gif" width="25" /></p>
 
 <!-- Atividades -->
 <p align="center">
