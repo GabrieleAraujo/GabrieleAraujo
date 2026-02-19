@@ -13,7 +13,7 @@
   <img align="right" alt="Gabi-yoda" height="150" width="160"  src="https://cdn.discordapp.com/attachments/758362394220298319/884566798794633246/picasion.com_31530aa7d40907ef0b9fb4a23c597ae7.gif"> -->
 
 <!-- Liguagens de Programação -->
-
+</br>
 <p align="left">
   <img align="left" alt="Gabi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="left" alt="Gabi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
