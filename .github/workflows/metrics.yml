@@ -1,22 +1,51 @@
-- name: Languages Metrics
-  uses: lowlighter/metrics@latest
-  with:
-    filename: metrics-languages.svg
-    token: ${{ secrets.METRICS_TOKEN }}
+name: Metrics
 
-    user: gabrielearaujo
-    template: classic
-    base: ""
+on:
+  schedule:
+    - cron: "0 0 * * *"
 
-    plugin_languages: yes
-    plugin_languages_limit: 5
+  workflow_dispatch:
 
-    plugin_languages_sections: most-used
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
 
-    plugin_languages_details: bytes-size, percentage
+    permissions:
+      contents: write
 
-    plugin_languages_ignored: >
-      html, css, tex,
-      less, dockerfile,
-      makefile, cmake,
-      shell
+    steps:
+      - name: Languages Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-languages.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: gabrielearaujo
+          template: classic
+          base: ""
+
+          plugin_languages: yes
+          plugin_languages_limit: 5
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+
+          plugin_languages_ignored: >
+            html, css, tex,
+            less, dockerfile,
+            makefile, cmake,
+            shell
+
+      - name: Topics Metrics
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics-topics.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          user: gabrielearaujo
+          template: classic
+          base: ""
+
+          plugin_topics: yes
+          plugin_topics_limit: 12
+          plugin_topics_mode: labels
+          plugin_topics_sort: stars
