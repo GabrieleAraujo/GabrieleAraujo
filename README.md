@@ -7,21 +7,30 @@
   <a href="https://www.linkedin.com/in/gabrielesaraujo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=gray"> </a> 
 </p>
 
-<br>
+</br>
 
 <!-- Intro  -->
-<p align="left"> 
-  <samp><h2>
+<!-- Intro -->
+<p align="left">
+  <span style="font-size: 28px; font-weight: bold;">
     Hello World! I'm Gabriele Araújo
-  </samp>
-  <img alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/>
-</h2></p>
+  </span>
+  <img 
+    src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" 
+    width="20"
+    style="vertical-align: middle;"
+  />
+</p>
 
 <p align="left">
   <samp>
     M.Sc. in Computer and Systems Engineering • AI • NLP • Data Science
   </samp>
-  <img alt="GIF" src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" width="27" />
+  <img 
+    src="https://raw.githubusercontent.com/SP-XD/SP-XD/main/images/Developer.gif" 
+    width="27"
+    style="vertical-align: middle;"
+  />
 </p>
 
 ## 
