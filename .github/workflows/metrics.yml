@@ -30,10 +30,13 @@ jobs:
 
           config_timezone: America/Fortaleza
 
+          # Languages
           plugin_languages: yes
           plugin_languages_limit: 5
           plugin_languages_sections: most-used
-          plugin_languages_indepth: yes
+          plugin_languages_categories: programming
+          plugin_languages_details:
+          plugin_languages_threshold: 2%
 
           plugin_languages_ignored: >
             html, css, tex,
@@ -41,6 +44,7 @@ jobs:
             makefile, cmake,
             shell
 
+          # Topics
           plugin_topics: yes
           plugin_topics_limit: 12
           plugin_topics_mode: labels
