@@ -6,7 +6,9 @@
   <a href="mailto:gabimitusa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=social&logo=gmail&logoColor=black"> </a> 
   <a href="https://www.linkedin.com/in/gabrielesaraujo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=black"> </a> 
 </p>
+
 <br>
+
 <!-- Intro  -->
 <p align="left"> 
   <samp>
