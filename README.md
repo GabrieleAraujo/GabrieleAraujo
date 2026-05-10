@@ -43,16 +43,16 @@
 
 ##
 
-<picture>
-  <source media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/gabrielearaujo/gabrielearaujo/output/github-contribution-grid-snake-dark.svg">
+<picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/gabrielearaujo/gabrielearaujo/output/github-contribution-grid-snake-dark.svg"> 
 
-  <source media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/gabrielearaujo/gabrielearaujo/output/github-contribution-grid-snake.svg">
+<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/gabrielearaujo/gabrielearaujo/output/github-contribution-grid-snake.svg"> 
 
-  <img alt="github contribution grid snake animation"
-    src="https://raw.githubusercontent.com/gabrielearaujo/gabrielearaujo/output/github-contribution-grid-snake.svg">
-</picture>
+<img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/gabrielearaujo/gabrielearaujo/output/github-contribution-grid-snake.svg"> 
+
+</picture> 
+
+<!-- ![Snake animation](https://github.com/GabrieleAraujo/GabrieleAraujo/blob/output/github-contribution-grid-snake.svg) 
+<img align="right" src="https://cdn.discordapp.com/attachments/780589825220018209/1063581964365463573/emails-college.gif" width="120px">
 
 
 <!-- Socials -->
