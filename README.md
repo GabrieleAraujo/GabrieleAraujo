@@ -16,7 +16,7 @@
 <br>
 
 <!-- Metrics -->
-<p align="leaft">
+<p align="left">
   <img src="./metrics-languages.svg" width="49%" />
   <img src="./metrics-topics.svg" width="49%" />
 </p>
