@@ -11,11 +11,11 @@
 
 <!-- Intro  -->
 <p align="left"> 
-  <samp>
+  <samp><h2>
     Hello World! I'm Gabriele Araújo
-  </samp> 
+  </samp>
   <img alt="GIF" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="20"/>
-</p>
+</h2></p>
 
 <p align="left">
   <samp>
