@@ -1,10 +1,10 @@
 <!-- Socials -->
 <!-- Socials --> 
 <p align="left"> 
-  <a href="https://www.youtube.com/channel/UCQDkuOuVvui0LNV0_HAPc6Q/videos" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=black"> </a> 
-  <a href="https://www.twitch.tv/gabi_leto" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=social&logo=twitch&logoColor=black"> </a> 
-  <a href="mailto:gabimitusa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=social&logo=gmail&logoColor=black"> </a> 
-  <a href="https://www.linkedin.com/in/gabrielesaraujo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=black"> </a> 
+  <a href="https://www.youtube.com/channel/UCQDkuOuVvui0LNV0_HAPc6Q/videos" target="_blank"> <img src="https://img.shields.io/badge/YouTube-FF0000?style=social&logo=youtube&logoColor=gray"> </a> 
+  <a href="https://www.twitch.tv/gabi_leto" target="_blank"> <img src="https://img.shields.io/badge/Twitch-9146FF?style=social&logo=twitch&logoColor=gray"> </a> 
+  <a href="mailto:gabimitusa@gmail.com"> <img src="https://img.shields.io/badge/Gmail-333333?style=social&logo=gmail&logoColor=gray"> </a> 
+  <a href="https://www.linkedin.com/in/gabrielesaraujo/" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=social&logo=linkedin&logoColor=gray"> </a> 
 </p>
 
 <br>
